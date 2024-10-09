@@ -1,3 +1,4 @@
+//config settings
 var http = require("http");
 const port = 5500;
 const path = require ("path");
