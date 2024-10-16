@@ -1,6 +1,6 @@
 //config settings
 var http = require("http");
-const port = 5501;
+const port = 5500;
 
 http.createServer(function(req, res) {
     res.writeHead(200, { "Content-Type": "text/plain" });
